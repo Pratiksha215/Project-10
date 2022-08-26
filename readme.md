@@ -20,6 +20,6 @@ Please check the Live Demo of the Designed Landing Page using the Below Link:-)
 
 ## Time taken to finish this project
 
--   1 hour taken to complete it.
+⏰-   1 hour taken to complete it.
 
 ## Designed By Patil Pratiksha
