@@ -1,14 +1,9 @@
-Responsive Street Style Landing Page designed using pure Html and Css.
+# Interior Design Landing page
 
 ## Concepts and Learnings
 
-- Positioning in css
-    - Absolute
-    - Relative
-    - Static
-- Pseudo selectors
-- Image size and Positioning
-- Flexbox
+- Learnt background-image with linear-gradient.
+
 
 ## Landing Page Snapshot
 ![Snapshot](/assets/output.png)
@@ -21,6 +16,10 @@ Please check the Live Demo of the Designed Landing Page using the Below Link:-)
 
 ![lIVE-dEMO](https://img.shields.io/badge/Live_Demo-<COLOR>)
 
-[Live-Demo](https://visual-designer-landing.netlify.app/)
+[Live-Demo](https://interior-landing.netlify.app)
+
+## Time taken to finish this project
+
+-   1 hour taken to complete it.
 
 ## Designed By Patil Pratiksha
